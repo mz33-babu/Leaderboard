@@ -1,0 +1,16 @@
+{
+    "name": "gaming-platform-server",
+    "version": "1.0.0",
+    "description": "Backend server for gaming platform",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongodb": "^5.4.0",
+        "mongoose": "^5.13.17"
+    }
+}
